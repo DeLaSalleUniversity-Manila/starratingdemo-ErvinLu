@@ -1,0 +1,10 @@
+Adventure Time
+- An app consisting of compilation of other apps
+
+Apps Within:
+- Star Rating
+- Menu using Expandable List
+- Help
+- Settings
+
+All Rights Reserve 2015 
